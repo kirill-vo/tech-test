@@ -4,8 +4,8 @@
 
 Mermaid graph:
 
-<div style='color: red;'>
-  <p><b>Some</b> text in div</div>
+<div>
+  <p style='color: red;'><b>Some</b> text in div</div>
 </div>
 
 ```mermaid
