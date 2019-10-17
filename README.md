@@ -4,6 +4,10 @@
 
 Mermaid graph:
 
+<div>
+  <p>Some text in div</div>
+</div>
+
 ```mermaid
 graph TD
 A[Christmas] --> B(Go shopping)
