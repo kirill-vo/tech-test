@@ -1,4 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.2.6/mermaid.min.js"></script> <script type="text/javascript">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.2.6/mermaid.min.js"></script>
 
 # tech-test
 
